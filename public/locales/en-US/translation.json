@@ -4,18 +4,18 @@
   "button": "Build Widget",
   "footer": {
     "description": "Real-time match statistics, player analytics, and live game tracking for competitive gaming.",
-    "maintainers": "Created and maintained by <0>@podokonikTW</0> & <1>@nymfgg</1>",
+    "maintainers": "Created and maintained by <0>@podokonikTW</0> & <1>@nymf71</1>",
     "news": "Follow our telegram channel <0>@faceitlivestats</0> to stay up to date with all the news and updates.",
     "disclaimer": "FACEIT Live Stats is developed independently and is not officially endorsed by or affiliated with FACEIT.",
     "support": {
       "title": "Support the project",
-      "description": "A project by <0>@podokonikTW</0> and <1>@nymfgg</1>. You can voluntarily support further development by submitting CS2 skins via Steam Trade and donation. There is no compensation — every support helps to cover server and development costs.",
+      "description": "A project by <0>@podokonikTW</0> and <1>@nymf71</1>. You can voluntarily support further development by submitting CS2 skins via Steam Trade and donation. There is no compensation — every support helps to cover server and development costs.",
       "skins": "Support with skins",
       "donation": "Support with donation"
     }
   },
   "twitch-player": {
-    "title": "CEO <0>nymfgg</0> is streaming on Twitch now"
+    "title": "CEO <0>nymf71</0> is streaming on Twitch now"
   },
   "mirror": {
     "header": "Any issues using the widget in OBS?",

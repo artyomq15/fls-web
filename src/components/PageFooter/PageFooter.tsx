@@ -39,13 +39,13 @@ export function PageFooter() {
                   }
                 />,
                 <a
-                  href="https://www.twitch.tv/nymfgg/about"
+                  href="https://www.twitch.tv/nymf71/about"
                   target="_blank"
                   className="text-[#b98dfb] font-semibold underline underline-offset-2"
                   onClick={() =>
                     eventService.track("twitch_click", {
                       source: "footer",
-                      value: "nymfgg",
+                      value: "nymf71",
                     })
                   }
                 />,

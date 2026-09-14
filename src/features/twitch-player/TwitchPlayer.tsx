@@ -7,7 +7,7 @@ import { eventService } from "@/services";
 
 const TWITCH_PLAYER_SCRIPT = "https://player.twitch.tv/js/embed/v1.js";
 const ID = "twitch_player";
-const TWITCH_ID = "nymfgg";
+const TWITCH_ID = "nymf71";
 
 interface TwitchWindow extends Window {
   Twitch?: {
@@ -89,13 +89,13 @@ export function TwitchPlayer({
           i18nKey="twitch-player.title"
           components={[
             <a
-              href={"https://www.twitch.tv/nymfgg/about"}
+              href={"https://www.twitch.tv/nymf71/about"}
               target="_blank"
               className={clsx(styles.link)}
               onClick={() => {
                 eventService.track("twitch_click", {
                   source: "twitch-player",
-                  value: "nymfgg",
+                  value: "nymf71",
                 });
               }}
             />,
